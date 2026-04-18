@@ -16,3 +16,8 @@
 3. navigate to the folder where the .py file is in terminal (if it's in downloads, run "cd ~/Downloads")
 4. run "python dog.py"
 
+# related projects
+
+- cat collector (https://github.com/thatpicoder/catcollector)
+- bunny collector (https://github.com/thatpicoder/bunnycollector)
+
